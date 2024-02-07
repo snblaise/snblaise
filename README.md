@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm **Blaise**, a passionate Cloud Security fanatic from Raleigh NC. Welcome to my GitHub universe! 🚀
+I'm **Blaise**, a passionate Cloud Security fanatic. Welcome to my GitHub universe! 🚀
 
 ## About Me
 - 🌱 I'm currently learning Architecting and security cloud Infrastructure in a multi-cloud Environment alongside DevOps.

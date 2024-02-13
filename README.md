@@ -8,7 +8,7 @@ I'm **Blaise**, a passionate Cloud Security fanatic. Welcome to my GitHub univer
 - 👯 I'm looking to collaborate on multi-cloud, Cloud Security, Cloud penetration testing, DevOps, and DevSecOps Projects on AWS, AZURE, and GCP cloud platforms.
 - 🤔 I'm interested in Roles in the Cloud, DevOps, and DevSecOps 
 - 💼 I work at OpenClassroom as a Mentor and do independent projects.
-- 📫 Reach me at shublaisengwa@gmail.com
+- 📫 Reach me at blaisengwa148@gmail.com
 ## Tech Stack
 
 🚀 Here are some technologies I've been working with:

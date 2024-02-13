@@ -1,13 +1,29 @@
 ### Hi there 👋
 
 
-I'm **Blaise**, a passionate Cloud Security fanatic. Welcome to my GitHub universe! 🚀
+I'm **Blaise**, a passionate Devops Engineer. Welcome to my GitHub universe! 🚀
 
 ## About Me
-- 🌱 I'm currently learning Architecting and security cloud Infrastructure in a multi-cloud Environment alongside DevOps.
-- 👯 I'm looking to collaborate on multi-cloud, Cloud Security, Cloud penetration testing, DevOps, and DevSecOps Projects on AWS, AZURE, and GCP cloud platforms.
-- 🤔 I'm interested in Roles in the Cloud, DevOps, and DevSecOps 
-- 💼 I work at OpenClassroom as a Mentor and do independent projects.
+- Over 6+ years of hands-on experience as a DevOps engineer, proficient in implementing and optimizing CI/CD pipelines, 
+orchestrating cloud migrations, and automating infrastructure management using industry-leading tools and methodologies.
+- Orchestrated the seamless integration of various version control systems such as Git, SVN, Perforce, and ClearCase, 
+enhancing the efficiency of source code management processes.
+- Spearheaded the setup and optimization of CI/CD pipelines utilizing Jenkins, automating repetitive tasks and streamlining 
+build and deployment workflows.
+- Implemented configuration management practices employing tools like Chef and Puppet, crafting manifests and 
+cookbooks to effectively configure remote modules.
+- Executed Docker containerization strategies to improve scalability and deployment flexibility,
+leveraging both existing 
+containers and developing new ones as needed.
+- Demonstrated proficiency in cloud technologies, particularly AWS and GCP, overseeing migrations, resource 
+management, and ensuring high availability and fault tolerance.
+- Designed and implemented fully automated CI/CD pipelines, adhering to Agile methodologies, and
+ensuring prompt 
+delivery of top-quality software products.
+- Utilized Terraform and AWS CloudFormation templates for cloud infrastructure automation, optimizing resource provisioning and management.
+- Excelled in scripting languages such as PowerShell, Shell, Python, and Ruby, facilitating system automation and efficiency
+- Collaborated with cross-functional teams to align on project objectives and foster a culture of collaboration and excellence in build and deployment processes.
+- Managed application and web servers on AWS, utilizing images to maintain smooth operations in production environments.
 - 📫 Reach me at blaisengwa148@gmail.com
 ## Tech Stack
 

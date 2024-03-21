@@ -4,7 +4,7 @@
 I'm **Blaise**, a passionate Devops Engineer. Welcome to my GitHub universe! 🚀
 
 ## About Me
-- Over 6+ years of hands-on experience as a DevOps engineer, proficient in implementing and optimizing CI/CD pipelines, 
+- A hands-on experience as a DevOps engineer, proficient in implementing and optimizing CI/CD pipelines, 
 orchestrating cloud migrations, and automating infrastructure management using industry-leading tools and methodologies.
 - Orchestrated the seamless integration of various version control systems such as Git, SVN, Perforce, and ClearCase, 
 enhancing the efficiency of source code management processes.

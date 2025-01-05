@@ -48,7 +48,7 @@
 
 - 🔭 I’m currently working on **AWS**
 
-- 🌱 I’m currently growing my expertise in **Container Security, Cloud Security Public Cloud Security, and Microservice security Data Pipelines**
+- 🌱 I’m currently growing my expertise in **Container Security, Cloud Security, and Microservice security**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
@@ -56,7 +56,7 @@
 
 - 👨‍💻 You can find some of my projects here on GitHub
 
-- 💬 Ask me about **AWS, DevSecOps, DevOps**
+- 💬 Ask me about **AWS, DevSecOps, Data Pipelines, Penetration Testing**
 
 - 📫 You can reach me at **shublaisengwa@gmail.com**
 
